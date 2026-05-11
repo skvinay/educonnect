@@ -1,7 +1,6 @@
 import { getApp, getApps, initializeApp } from "firebase/app";
 import { ReCaptchaV3Provider, initializeAppCheck } from "firebase/app-check";
 import { getFirestore } from "firebase/firestore";
-import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
@@ -18,15 +17,21 @@ const app = getApps().length ? getApp() : initializeApp(firebaseConfig);
 
 if (typeof window !== "undefined") {
   const siteKey = import.meta.env.VITE_FIREBASE_APPCHECK_SITE_KEY;
-  if (siteKey) {
-    initializeAppCheck(app, {
-      provider: new ReCaptchaV3Provider(siteKey),
-      isTokenAutoRefreshEnabled: true,
-    });
+  const isRealSiteKey =
+    !!siteKey && !siteKey.startsWith("REPLACE_WITH_") && siteKey.length > 20;
+
+  if (isRealSiteKey) {
+    try {
+      initializeAppCheck(app, {
+        provider: new ReCaptchaV3Provider(siteKey),
+        isTokenAutoRefreshEnabled: true,
+      });
+    } catch (error) {
+      console.warn("Firebase App Check initialization skipped:", error);
+    }
   }
 }
 
 export { app };
 export const db = getFirestore(app);
-export const rtdb = getDatabase(app);
 export const auth = getAuth(app);

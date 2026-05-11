@@ -35,3 +35,6 @@ serviceAccountKey.json
 *private-key*.pem
 *.p12
 *.key
+
+.agents/
+skills-lock.json
