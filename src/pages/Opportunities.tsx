@@ -8,6 +8,12 @@ import {
 } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {
   Select,
@@ -352,7 +358,7 @@ const Opportunities = () => {
                     animate={{ opacity: 1, y: 0 }}
                   >
                     <Card className="overflow-hidden">
-                      <CardHeader className="bg-muted/40">
+                      <CardHeader className="bg-muted/30 pb-4">
                         <CardTitle className="text-2xl">
                           {career.title}
                         </CardTitle>
@@ -363,48 +369,68 @@ const Opportunities = () => {
                         )}
                       </CardHeader>
 
-                      <CardContent className="space-y-6 pt-6">
-                        {metadata.length > 0 && (
-                          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-                            {metadata.map(([key, value]) => (
-                              <div
-                                key={`${career.id}-${key}`}
-                                className="rounded-xl border p-4"
-                              >
-                                <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
-                                  {formatLabel(key)}
-                                </p>
-                                {renderOpportunityValue(
-                                  value,
-                                  `${career.id}-${key}`
-                                )}
-                              </div>
-                            ))}
-                          </div>
-                        )}
+                      <CardContent className="pt-0">
+                        <Accordion type="single" collapsible className="w-full">
+                          <AccordionItem
+                            value={`${career.id}-details`}
+                            className="border-b-0"
+                          >
+                            <AccordionTrigger className="py-4 text-left hover:no-underline">
+                              <span className="text-base font-medium text-foreground">
+                                View Career Details
+                              </span>
+                            </AccordionTrigger>
 
-                        {sections.length > 0 ? (
-                          <div className="space-y-5">
-                            {sections.map(([sectionKey, sectionValue]) => (
-                              <div
-                                key={`${career.id}-${sectionKey}`}
-                                className="rounded-2xl border p-5"
-                              >
-                                <h3 className="mb-4 text-lg font-semibold">
-                                  {formatLabel(sectionKey)}
-                                </h3>
-                                {renderOpportunityValue(
-                                  sectionValue as OpportunityValue,
-                                  `${career.id}-${sectionKey}`
+                            <AccordionContent className="pb-6">
+                              <div className="space-y-6">
+                                {metadata.length > 0 && (
+                                  <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+                                    {metadata.map(([key, value]) => (
+                                      <div
+                                        key={`${career.id}-${key}`}
+                                        className="rounded-xl border p-4"
+                                      >
+                                        <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                                          {formatLabel(key)}
+                                        </p>
+                                        {renderOpportunityValue(
+                                          value,
+                                          `${career.id}-${key}`
+                                        )}
+                                      </div>
+                                    ))}
+                                  </div>
+                                )}
+
+                                {sections.length > 0 ? (
+                                  <div className="space-y-5">
+                                    {sections.map(
+                                      ([sectionKey, sectionValue]) => (
+                                        <div
+                                          key={`${career.id}-${sectionKey}`}
+                                          className="rounded-2xl border p-5"
+                                        >
+                                          <h3 className="mb-4 text-lg font-semibold">
+                                            {formatLabel(sectionKey)}
+                                          </h3>
+                                          {renderOpportunityValue(
+                                            sectionValue as OpportunityValue,
+                                            `${career.id}-${sectionKey}`
+                                          )}
+                                        </div>
+                                      )
+                                    )}
+                                  </div>
+                                ) : (
+                                  <p className="text-sm text-muted-foreground">
+                                    No flexible sections available for this
+                                    career yet.
+                                  </p>
                                 )}
                               </div>
-                            ))}
-                          </div>
-                        ) : (
-                          <p className="text-sm text-muted-foreground">
-                            No flexible sections available for this career yet.
-                          </p>
-                        )}
+                            </AccordionContent>
+                          </AccordionItem>
+                        </Accordion>
                       </CardContent>
                     </Card>
                   </motion.div>
