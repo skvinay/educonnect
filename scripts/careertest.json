@@ -1,0 +1,250 @@
+{
+  "title": "Career Selection Self-Test for Students",
+  "description": "Answer these questions to discover which career path might be right for you!",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which activities do you enjoy the most?",
+      "options": [
+        {
+          "text": "Reading, writing, and discussing ideas",
+          "streams": [
+            "arts-humanities",
+            "mass-communication",
+            "law"
+          ]
+        },
+        {
+          "text": "Solving mathematical problems and puzzles",
+          "streams": [
+            "engineering",
+            "computer-it",
+            "pure-sciences",
+            "ca-cs"
+          ]
+        },
+        {
+          "text": "Helping and caring for others",
+          "streams": [
+            "medical",
+            "nursing",
+            "paramedical",
+            "therapeutic"
+          ]
+        },
+        {
+          "text": "Creating art, designs, or crafts",
+          "streams": [
+            "design-fashion",
+            "architecture"
+          ]
+        },
+        {
+          "text": "Leading teams and organizing events",
+          "streams": [
+            "business-management",
+            "hotel-management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What subject interests you the most?",
+      "options": [
+        {
+          "text": "Physics and Mathematics",
+          "streams": [
+            "engineering",
+            "architecture",
+            "pure-sciences",
+            "aviation"
+          ]
+        },
+        {
+          "text": "Biology and Chemistry",
+          "streams": [
+            "medical",
+            "paramedical",
+            "nursing",
+            "veterinary",
+            "agriculture"
+          ]
+        },
+        {
+          "text": "Commerce and Economics",
+          "streams": [
+            "commerce-finance",
+            "economics",
+            "business-management",
+            "ca-cs"
+          ]
+        },
+        {
+          "text": "Languages and Social Sciences",
+          "streams": [
+            "arts-humanities",
+            "mass-communication",
+            "law"
+          ]
+        },
+        {
+          "text": "Physical Education and Sports",
+          "streams": [
+            "sports",
+            "defence",
+            "therapeutic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What type of work environment do you prefer?",
+      "options": [
+        {
+          "text": "Office/Corporate setting",
+          "streams": [
+            "commerce-finance",
+            "business-management",
+            "ca-cs",
+            "computer-it"
+          ]
+        },
+        {
+          "text": "Hospital/Healthcare facility",
+          "streams": [
+            "medical",
+            "nursing",
+            "paramedical",
+            "therapeutic"
+          ]
+        },
+        {
+          "text": "Outdoor/Field work",
+          "streams": [
+            "agriculture",
+            "veterinary",
+            "defence",
+            "sports",
+            "aviation"
+          ]
+        },
+        {
+          "text": "Creative studio/Design space",
+          "streams": [
+            "design-fashion",
+            "architecture",
+            "mass-communication"
+          ]
+        },
+        {
+          "text": "Classroom/Educational institution",
+          "streams": [
+            "arts-humanities",
+            "pure-sciences",
+            "economics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What's your primary career goal?",
+      "options": [
+        {
+          "text": "High salary and financial success",
+          "streams": [
+            "engineering",
+            "medical",
+            "ca-cs",
+            "business-management",
+            "computer-it"
+          ]
+        },
+        {
+          "text": "Serving society and helping others",
+          "streams": [
+            "medical",
+            "nursing",
+            "law",
+            "defence",
+            "arts-humanities"
+          ]
+        },
+        {
+          "text": "Creative expression and innovation",
+          "streams": [
+            "design-fashion",
+            "architecture",
+            "mass-communication"
+          ]
+        },
+        {
+          "text": "Research and discovery",
+          "streams": [
+            "pure-sciences",
+            "agriculture",
+            "veterinary"
+          ]
+        },
+        {
+          "text": "Adventure and travel",
+          "streams": [
+            "aviation",
+            "hotel-management",
+            "defence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do you prefer to learn?",
+      "options": [
+        {
+          "text": "Through reading and theoretical study",
+          "streams": [
+            "arts-humanities",
+            "law",
+            "economics",
+            "pure-sciences"
+          ]
+        },
+        {
+          "text": "Through hands-on experiments and practice",
+          "streams": [
+            "engineering",
+            "medical",
+            "paramedical",
+            "computer-it"
+          ]
+        },
+        {
+          "text": "Through creative projects and visual learning",
+          "streams": [
+            "design-fashion",
+            "architecture",
+            "mass-communication"
+          ]
+        },
+        {
+          "text": "Through physical activities and sports",
+          "streams": [
+            "sports",
+            "defence",
+            "therapeutic"
+          ]
+        },
+        {
+          "text": "Through case studies and real-world examples",
+          "streams": [
+            "business-management",
+            "commerce-finance",
+            "ca-cs"
+          ]
+        }
+      ]
+    }
+  ]
+}

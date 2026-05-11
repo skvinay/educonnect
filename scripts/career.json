@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "arts-humanities",
+    "title": "Arts, Humanities & Social Sciences",
+    "shortTitle": "Arts & Humanities",
+    "icon": "🎨",
+    "colorClass": "category-arts",
+    "description": "Explore the rich world of human expression, society, and culture through arts, humanities, and social sciences.",
+    "summary": "Arts, Humanities & Social Sciences form the backbone of understanding human civilization. This stream encompasses literature, history, philosophy, psychology, sociology, political science, and languages. Students develop critical thinking, communication, and analytical skills that are increasingly valued in today's knowledge economy. From shaping public policy to creating impactful media content, graduates contribute meaningfully to society's intellectual and cultural fabric.",
+    "opportunities": {
+      "shortTerm": 65,
+      "longTerm": 78
+    },
+    "whoShouldChoose": [
+      "Interest in Society, Culture & Human Behavior",
+      "Passion for Writing, Literature & Languages",
+      "Empathy & Social Awareness"
+    ],
+    "degrees": [
+      {
+        "name": "BA (Bachelor of Arts)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BA (Hons./Research)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "BSW (Bachelor of Social Work)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BA+MA (Integrated Bachelor & Master of Arts)",
+        "duration": "5 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Professor/Lecturer",
+        "description": "Teaches arts, humanities, or social sciences subjects"
+      },
+      {
+        "title": "Journalist",
+        "description": "Reports on news, culture, or politics"
+      },
+      {
+        "title": "Editor",
+        "description": "Edits books, articles, or media content"
+      },
+      {
+        "title": "Social Media Manager",
+        "description": "Develops content and strategies for online platforms"
+      },
+      {
+        "title": "Filmmaker/Director",
+        "description": "Produces movies, documentaries, or digital media"
+      },
+      {
+        "title": "Psychologist",
+        "description": "Studies human behavior and mental health"
+      },
+      {
+        "title": "Human Resources Manager",
+        "description": "Manages employee relations and company policies"
+      },
+      {
+        "title": "Counselor",
+        "description": "Provides emotional and mental health support"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "B.A. (Hons.) programs at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      },
+      {
+        "name": "BHU UET",
+        "programs": "B.A. (Hons.) at Banaras Hindu University",
+        "website": "https://www.bhu.ac.in/"
+      },
+      {
+        "name": "Christ University Entrance Test",
+        "programs": "B.A. programs at Christ University",
+        "website": "https://christuniversity.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Lady Shri Ram College for Women (LSR)",
+        "admission": "CUET (UG)",
+        "website": "https://lsr.edu.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Miranda House",
+        "admission": "CUET (UG)",
+        "website": "https://www.mirandahouse.ac.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Hindu College",
+        "admission": "CUET (UG)",
+        "website": "https://hinducollege.ac.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "St. Xavier's College",
+        "admission": "College Entrance Test",
+        "website": "https://xaviers.edu/",
+        "location": "Mumbai"
+      },
+      {
+        "name": "Loyola College",
+        "admission": "College Entrance Test",
+        "website": "https://www.loyolacollege.edu/",
+        "location": "Chennai"
+      },
+      {
+        "name": "Christ University",
+        "admission": "CUET",
+        "website": "https://christuniversity.in/",
+        "location": "Bengaluru"
+      }
+    ]
+  },
+  {
+    "id": "economics",
+    "title": "Economics",
+    "shortTitle": "Economics",
+    "icon": "📊",
+    "colorClass": "category-economics",
+    "description": "Understand economic trends, policies, and financial systems that shape the world economy.",
+    "summary": "Economics is the study of how societies allocate scarce resources. It provides insights into market behavior, government policies, international trade, and financial systems. Economists analyze data to forecast trends, evaluate policies, and guide decision-making in both public and private sectors. With globalization and digital transformation, economics graduates are in high demand across banking, consulting, research institutions, and government agencies.",
+    "opportunities": {
+      "shortTerm": 72,
+      "longTerm": 85
+    },
+    "whoShouldChoose": [
+      "Interest in analyzing economic trends and data",
+      "Passion for understanding global markets",
+      "Strong mathematical and analytical skills"
+    ],
+    "degrees": [
+      {
+        "name": "BA (Bachelor of Arts)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BA (Hons./Research)",
+        "duration": "3/4 Years"
+      },
+      {
+        "name": "B.Sc. (Bachelor of Science with Economics)",
+        "duration": "3/4 Years"
+      },
+      {
+        "name": "B.Sc. (Hons)",
+        "duration": "3/4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Economist",
+        "description": "Analyzes economic trends and policies for government agencies, private firms, or think tanks"
+      },
+      {
+        "title": "Policy Analyst",
+        "description": "Works with government institutions or NGOs to assess and develop public policies"
+      },
+      {
+        "title": "Financial Analyst",
+        "description": "Evaluates investments, stocks, and financial decisions for businesses"
+      },
+      {
+        "title": "Investment Banker",
+        "description": "Helps companies raise capital and advises on mergers and acquisitions"
+      },
+      {
+        "title": "Management Consultant",
+        "description": "Advises companies on improving efficiency and profitability"
+      },
+      {
+        "title": "Statistician",
+        "description": "Uses economic data to assist in decision-making processes"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "Economics programs at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      },
+      {
+        "name": "ISI Admission Test",
+        "programs": "M.S. in Quantitative Economics at ISI Kolkata",
+        "website": "https://www.isical.ac.in/"
+      },
+      {
+        "name": "IGIDR Entrance Test",
+        "programs": "M.Sc. in Economics at IGIDR Mumbai",
+        "website": "http://www.igidr.ac.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Delhi School of Economics",
+        "admission": "Merit-Based",
+        "website": "http://www.econdse.org/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Indian Statistical Institute",
+        "admission": "ISI Admission Test",
+        "website": "https://www.isical.ac.in/",
+        "location": "Kolkata"
+      },
+      {
+        "name": "Sri Ram College of Commerce",
+        "admission": "CUET (UG)",
+        "website": "https://www.srcc.edu/",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  {
+    "id": "mass-communication",
+    "title": "Mass Communication",
+    "shortTitle": "Mass Comm",
+    "icon": "📺",
+    "colorClass": "category-communication",
+    "description": "Learn to create, distribute, and analyze media content across various platforms.",
+    "summary": "Mass Communication is the study of how information is created, transmitted, and received through various media channels. This field covers journalism, advertising, public relations, film production, and digital media. With the explosion of social media and content platforms, skilled communicators are essential for organizations to engage with audiences effectively. Graduates work in newsrooms, production houses, advertising agencies, and corporate communications.",
+    "opportunities": {
+      "shortTerm": 70,
+      "longTerm": 82
+    },
+    "whoShouldChoose": [
+      "Creative storytelling abilities",
+      "Interest in media and journalism",
+      "Strong communication skills"
+    ],
+    "degrees": [
+      {
+        "name": "BJMC (Bachelor of Journalism and Mass Communication)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BA (Mass Communication)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. (Mass Media)",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Journalist",
+        "description": "Reports news and current affairs for various media outlets"
+      },
+      {
+        "title": "Content Creator",
+        "description": "Creates engaging content for digital platforms"
+      },
+      {
+        "title": "Public Relations Officer",
+        "description": "Manages public image and communications for organizations"
+      },
+      {
+        "title": "Film Director",
+        "description": "Directs films, documentaries, and TV shows"
+      },
+      {
+        "title": "Anchor/RJ",
+        "description": "Hosts TV shows or radio programs"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "Mass Communication at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      },
+      {
+        "name": "IIMC Entrance",
+        "programs": "Journalism programs at IIMC",
+        "website": "https://iimc.gov.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Indian Institute of Mass Communication",
+        "admission": "IIMC Entrance",
+        "website": "https://iimc.gov.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Symbiosis Institute of Media & Communication",
+        "admission": "SET",
+        "website": "https://simc.edu/",
+        "location": "Pune"
+      }
+    ]
+  },
+  {
+    "id": "commerce-finance",
+    "title": "Commerce, Finance & Management",
+    "shortTitle": "Commerce & Finance",
+    "icon": "💼",
+    "colorClass": "category-commerce",
+    "description": "Master the world of business, finance, and management to drive economic growth.",
+    "summary": "Commerce, Finance & Management provides a comprehensive understanding of business operations, financial markets, and organizational management. Students learn accounting, taxation, financial analysis, and business law. This stream offers diverse career paths from chartered accountancy to corporate finance, making it ideal for those who want to understand how businesses operate and succeed in the competitive corporate world.",
+    "opportunities": {
+      "shortTerm": 75,
+      "longTerm": 88
+    },
+    "whoShouldChoose": [
+      "Interest in business and commerce",
+      "Strong numerical aptitude",
+      "Leadership and management skills"
+    ],
+    "degrees": [
+      {
+        "name": "B.Com (Bachelor of Commerce)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Com (Hons)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BBA (Bachelor of Business Administration)",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Chartered Accountant",
+        "description": "Manages financial records and provides tax advice"
+      },
+      {
+        "title": "Financial Manager",
+        "description": "Oversees financial operations of organizations"
+      },
+      {
+        "title": "Investment Banker",
+        "description": "Advises on capital raising and M&A"
+      },
+      {
+        "title": "Tax Consultant",
+        "description": "Provides tax planning and compliance services"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "B.Com at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      },
+      {
+        "name": "DU JAT",
+        "programs": "BMS/BBA at Delhi University",
+        "website": "http://www.du.ac.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Sri Ram College of Commerce",
+        "admission": "CUET (UG)",
+        "website": "https://www.srcc.edu/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Loyola College",
+        "admission": "Based on 12th Marks",
+        "website": "https://www.loyolacollege.edu/",
+        "location": "Chennai"
+      }
+    ]
+  },
+  {
+    "id": "business-management",
+    "title": "Business Management",
+    "shortTitle": "Business Mgmt",
+    "icon": "📈",
+    "colorClass": "category-management",
+    "description": "Develop leadership and strategic skills to manage organizations effectively.",
+    "summary": "Business Management focuses on developing leadership, strategic thinking, and operational skills needed to run organizations effectively. Students learn about marketing, human resources, operations, and strategic planning. With businesses becoming more complex and globalized, skilled managers are essential for organizational success. Graduates can pursue careers in consulting, entrepreneurship, or climb the corporate ladder to executive positions.",
+    "opportunities": {
+      "shortTerm": 78,
+      "longTerm": 92
+    },
+    "whoShouldChoose": [
+      "Leadership and team management abilities",
+      "Strategic thinking and problem-solving",
+      "Interest in organizational dynamics"
+    ],
+    "degrees": [
+      {
+        "name": "BBA (Bachelor of Business Administration)",
+        "duration": "3/4 Years"
+      },
+      {
+        "name": "BMS (Bachelor of Management Studies)",
+        "duration": "3/4 Years"
+      },
+      {
+        "name": "BBA+MBA (Integrated)",
+        "duration": "5 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "CEO",
+        "description": "Oversees overall operations and strategy of a company"
+      },
+      {
+        "title": "General Manager",
+        "description": "Supervises business functions and organizational performance"
+      },
+      {
+        "title": "HR Manager",
+        "description": "Manages hiring, training, and employee relations"
+      },
+      {
+        "title": "Marketing Manager",
+        "description": "Develops marketing strategies and brand awareness"
+      },
+      {
+        "title": "Operations Manager",
+        "description": "Ensures smooth and efficient running of operations"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "IPMAT",
+        "programs": "Integrated Program at IIM Indore",
+        "website": "http://www.iimidr.ac.in/"
+      },
+      {
+        "name": "SET",
+        "programs": "BBA at Symbiosis",
+        "website": "https://www.set-test.org/"
+      },
+      {
+        "name": "NPAT",
+        "programs": "BBA at NMIMS",
+        "website": "https://nmimsnpat.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "IIM Indore (IPM)",
+        "admission": "IPMAT+WAT & PI",
+        "website": "https://www.iimidr.ac.in/",
+        "location": "Indore"
+      },
+      {
+        "name": "Christ University",
+        "admission": "CUET",
+        "website": "https://christuniversity.in/",
+        "location": "Bengaluru"
+      },
+      {
+        "name": "Symbiosis Pune",
+        "admission": "SET",
+        "website": "https://www.set-test.org/",
+        "location": "Pune"
+      }
+    ]
+  },
+  {
+    "id": "agriculture",
+    "title": "Agriculture, Horticulture & Allied Sciences",
+    "shortTitle": "Agriculture",
+    "icon": "🌾",
+    "colorClass": "category-agriculture",
+    "description": "Contribute to food security and sustainable farming through agricultural sciences.",
+    "summary": "Agriculture, Horticulture & Allied Sciences focus on food production, crop management, and sustainable farming practices. This field is crucial for India's economy and food security. Students learn about soil science, plant genetics, pest management, and agricultural technology. With increasing focus on sustainable agriculture and food technology, this sector offers excellent opportunities in research, agribusiness, and government agricultural services.",
+    "opportunities": {
+      "shortTerm": 60,
+      "longTerm": 75
+    },
+    "whoShouldChoose": [
+      "Interest in farming and food production",
+      "Environmental consciousness",
+      "Passion for sustainable development"
+    ],
+    "degrees": [
+      {
+        "name": "B.Sc. Agriculture",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Sc. Horticulture",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Tech Agricultural Engineering",
+        "duration": "4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Agricultural Scientist",
+        "description": "Researches crop improvement and farming techniques"
+      },
+      {
+        "title": "Farm Manager",
+        "description": "Manages agricultural operations and production"
+      },
+      {
+        "title": "Agricultural Officer",
+        "description": "Works with government to implement farming policies"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "ICAR AIEEA",
+        "programs": "Agriculture programs at ICAR institutes",
+        "website": "https://icar.org.in/"
+      },
+      {
+        "name": "State Agriculture CET",
+        "programs": "B.Sc. Agriculture at state universities",
+        "website": "Varies by state"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "IARI New Delhi",
+        "admission": "ICAR AIEEA",
+        "website": "https://www.iari.res.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Punjab Agricultural University",
+        "admission": "State CET",
+        "website": "https://pau.edu/",
+        "location": "Ludhiana"
+      }
+    ]
+  },
+  {
+    "id": "veterinary",
+    "title": "Veterinary & Fishery Sciences",
+    "shortTitle": "Veterinary",
+    "icon": "🐾",
+    "colorClass": "category-veterinary",
+    "description": "Care for animals and contribute to animal health and fishery development.",
+    "summary": "Veterinary & Fishery Sciences focus on animal health, welfare, and the sustainable development of fishery resources. Veterinarians diagnose and treat animal diseases, while fishery scientists work on aquaculture and marine resource management. With growing awareness of animal welfare and the importance of fisheries to the economy, these professions offer meaningful careers combining science with compassion for animals.",
+    "opportunities": {
+      "shortTerm": 58,
+      "longTerm": 72
+    },
+    "whoShouldChoose": [
+      "Love for animals",
+      "Interest in animal health and welfare",
+      "Scientific temperament"
+    ],
+    "degrees": [
+      {
+        "name": "B.V.Sc. & A.H. (Bachelor of Veterinary Science)",
+        "duration": "5.5 Years"
+      },
+      {
+        "name": "B.F.Sc. (Bachelor of Fishery Science)",
+        "duration": "4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Veterinarian",
+        "description": "Diagnoses and treats animal diseases"
+      },
+      {
+        "title": "Animal Nutritionist",
+        "description": "Develops nutritional plans for animals"
+      },
+      {
+        "title": "Fishery Officer",
+        "description": "Manages fishery resources and production"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET UG",
+        "programs": "B.V.Sc. programs across India",
+        "website": "https://neet.nta.nic.in/"
+      },
+      {
+        "name": "ICAR AIEEA",
+        "programs": "Fishery programs at ICAR institutes",
+        "website": "https://icar.org.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Indian Veterinary Research Institute",
+        "admission": "NEET/ICAR",
+        "website": "https://ivri.nic.in/",
+        "location": "Bareilly"
+      }
+    ]
+  },
+  {
+    "id": "architecture",
+    "title": "Architecture & Planning",
+    "shortTitle": "Architecture",
+    "icon": "🏛️",
+    "colorClass": "category-architecture",
+    "description": "Design sustainable buildings and plan cities for the future.",
+    "summary": "Architecture & Planning combines creativity with technical expertise to design functional and aesthetically pleasing built environments. Architects create buildings that are safe, sustainable, and beautiful, while urban planners develop comprehensive plans for cities and regions. With rapid urbanization in India, skilled architects and planners are essential for creating livable, sustainable cities that meet the needs of growing populations.",
+    "opportunities": {
+      "shortTerm": 62,
+      "longTerm": 80
+    },
+    "whoShouldChoose": [
+      "Creative and artistic abilities",
+      "Interest in design and construction",
+      "Spatial awareness and visualization skills"
+    ],
+    "degrees": [
+      {
+        "name": "B.Arch (Bachelor of Architecture)",
+        "duration": "5 Years"
+      },
+      {
+        "name": "B.Planning",
+        "duration": "4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Architect",
+        "description": "Designs buildings and structures"
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Plans cities and urban development"
+      },
+      {
+        "title": "Interior Designer",
+        "description": "Designs interior spaces"
+      },
+      {
+        "title": "Landscape Architect",
+        "description": "Designs outdoor spaces and landscapes"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NATA",
+        "programs": "B.Arch at various colleges",
+        "website": "https://www.nata.in/"
+      },
+      {
+        "name": "JEE Main Paper 2",
+        "programs": "B.Arch at NITs and other institutes",
+        "website": "https://jeemain.nta.nic.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "IIT Kharagpur",
+        "admission": "JEE Advanced",
+        "website": "http://www.iitkgp.ac.in/",
+        "location": "Kharagpur"
+      },
+      {
+        "name": "SPA Delhi",
+        "admission": "NATA/JEE",
+        "website": "http://spa.ac.in/",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  {
+    "id": "computer-it",
+    "title": "Computer/IT Sciences",
+    "shortTitle": "Computer/IT",
+    "icon": "💻",
+    "colorClass": "category-computer",
+    "description": "Build the digital future through software development, AI, and technology innovation.",
+    "summary": "Computer/IT Sciences is at the forefront of technological innovation, covering software development, data science, artificial intelligence, cybersecurity, and cloud computing. As digital transformation accelerates across all industries, IT professionals are in unprecedented demand. From creating mobile apps to developing AI systems, computer science graduates drive innovation and solve complex problems that shape our digital future.",
+    "opportunities": {
+      "shortTerm": 90,
+      "longTerm": 95
+    },
+    "whoShouldChoose": [
+      "Passion for technology and programming",
+      "Logical thinking and problem-solving",
+      "Interest in innovation and digital solutions"
+    ],
+    "degrees": [
+      {
+        "name": "BCA (Bachelor of Computer Applications)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. Computer Science",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. IT",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Software Developer",
+        "description": "Develops software applications and systems"
+      },
+      {
+        "title": "Data Scientist",
+        "description": "Analyzes complex data to derive insights"
+      },
+      {
+        "title": "AI/ML Engineer",
+        "description": "Develops artificial intelligence solutions"
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "description": "Protects systems from cyber threats"
+      },
+      {
+        "title": "Cloud Architect",
+        "description": "Designs cloud computing solutions"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "BCA/B.Sc. CS at Central Universities",
+        "website": "https://exams.nta.ac.in/"
+      },
+      {
+        "name": "SET",
+        "programs": "BCA at Symbiosis",
+        "website": "https://www.set-test.org/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Christ University",
+        "admission": "CUET",
+        "website": "https://christuniversity.in/",
+        "location": "Bengaluru"
+      },
+      {
+        "name": "Loyola College",
+        "admission": "Based on 12th Marks",
+        "website": "https://www.loyolacollege.edu/",
+        "location": "Chennai"
+      }
+    ]
+  },
+  {
+    "id": "engineering",
+    "title": "Engineering & Technology",
+    "shortTitle": "Engineering",
+    "icon": "⚙️",
+    "colorClass": "category-engineering",
+    "description": "Apply science and mathematics to solve real-world problems through engineering.",
+    "summary": "Engineering & Technology applies scientific principles to design, build, and maintain systems that solve real-world problems. From civil infrastructure to electronic devices, engineers create solutions that improve lives. With India's infrastructure development and technological advancement, engineers are essential across sectors including construction, manufacturing, energy, and technology. This versatile field offers numerous specializations and career paths.",
+    "opportunities": {
+      "shortTerm": 85,
+      "longTerm": 90
+    },
+    "whoShouldChoose": [
+      "Strong aptitude in Physics and Mathematics",
+      "Problem-solving and analytical skills",
+      "Interest in technology and innovation"
+    ],
+    "degrees": [
+      {
+        "name": "B.Tech (Bachelor of Technology)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.E. (Bachelor of Engineering)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Tech+M.Tech (Integrated)",
+        "duration": "5 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Civil Engineer",
+        "description": "Designs infrastructure like buildings, roads, and bridges"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "description": "Develops machinery and mechanical systems"
+      },
+      {
+        "title": "Electrical Engineer",
+        "description": "Works on electrical systems and power generation"
+      },
+      {
+        "title": "Software Engineer",
+        "description": "Develops software applications"
+      },
+      {
+        "title": "Aerospace Engineer",
+        "description": "Designs aircraft and spacecraft"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "JEE Main",
+        "programs": "B.Tech at NITs, IIITs, and CFTIs",
+        "website": "http://www.jeemain.nta.nic.in/"
+      },
+      {
+        "name": "JEE Advanced",
+        "programs": "B.Tech at IITs",
+        "website": "https://www.jeeadv.ac.in/"
+      },
+      {
+        "name": "BITSAT",
+        "programs": "B.E. at BITS Pilani",
+        "website": "https://www.bitsadmission.com/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "IIT Bombay",
+        "admission": "JEE Advanced",
+        "website": "https://www.iitb.ac.in/",
+        "location": "Mumbai"
+      },
+      {
+        "name": "IIT Delhi",
+        "admission": "JEE Advanced",
+        "website": "https://home.iitd.ac.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "IIT Goa",
+        "admission": "JEE Advanced",
+        "website": "https://iitgoa.ac.in/",
+        "location": "Goa"
+      },
+      {
+        "name": "NIT Goa",
+        "admission": "JEE Main",
+        "website": "https://www.nitgoa.ac.in/",
+        "location": "Goa"
+      }
+    ]
+  },
+  {
+    "id": "medical",
+    "title": "Medical & Allied Sciences",
+    "shortTitle": "Medical",
+    "icon": "🩺",
+    "colorClass": "category-medical",
+    "description": "Serve humanity by diagnosing, treating, and preventing diseases.",
+    "summary": "Medical & Allied Sciences focus on understanding human health, diagnosing diseases, and providing treatment. Doctors, dentists, and AYUSH practitioners play a vital role in healthcare delivery. Medicine is one of the most respected and rewarding professions, offering the opportunity to save lives and improve patient outcomes. With growing healthcare needs and medical tourism in India, qualified medical professionals are always in demand.",
+    "opportunities": {
+      "shortTerm": 80,
+      "longTerm": 95
+    },
+    "whoShouldChoose": [
+      "Passion for helping and healing people",
+      "Strong aptitude in Biology and Chemistry",
+      "Empathy and patience"
+    ],
+    "degrees": [
+      {
+        "name": "MBBS (Bachelor of Medicine & Surgery)",
+        "duration": "5.5 Years"
+      },
+      {
+        "name": "BDS (Bachelor of Dental Surgery)",
+        "duration": "5 Years"
+      },
+      {
+        "name": "BAMS (Bachelor of Ayurvedic Medicine)",
+        "duration": "5.5 Years"
+      },
+      {
+        "name": "BHMS (Bachelor of Homeopathic Medicine)",
+        "duration": "5.5 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Doctor/Physician",
+        "description": "Diagnoses and treats patients"
+      },
+      {
+        "title": "Surgeon",
+        "description": "Performs surgical procedures"
+      },
+      {
+        "title": "Dentist",
+        "description": "Treats dental and oral health issues"
+      },
+      {
+        "title": "Medical Researcher",
+        "description": "Conducts research to advance medicine"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET UG",
+        "programs": "MBBS/BDS and AYUSH courses",
+        "website": "https://neet.nta.nic.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "AIIMS New Delhi",
+        "admission": "NEET UG",
+        "website": "https://www.aiims.edu/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "Goa Medical College",
+        "admission": "NEET UG",
+        "website": "https://gmc.goa.gov.in/",
+        "location": "Goa"
+      }
+    ]
+  },
+  {
+    "id": "paramedical",
+    "title": "Paramedical & Allied Health Sciences",
+    "shortTitle": "Paramedical",
+    "icon": "💉",
+    "colorClass": "category-paramedical",
+    "description": "Support healthcare delivery through paramedical and allied health professions.",
+    "summary": "Paramedical & Allied Health Sciences encompass a wide range of healthcare support professions including pharmacy, physiotherapy, radiology, and laboratory sciences. These professionals work alongside doctors to provide comprehensive patient care. With the expansion of healthcare infrastructure and increased focus on preventive care, paramedical professionals play an increasingly important role in the healthcare ecosystem.",
+    "opportunities": {
+      "shortTerm": 75,
+      "longTerm": 85
+    },
+    "whoShouldChoose": [
+      "Interest in healthcare support roles",
+      "Compassion and care for patients",
+      "Technical aptitude in health sciences"
+    ],
+    "degrees": [
+      {
+        "name": "B.Pharma (Bachelor of Pharmacy)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Sc. Nursing",
+        "duration": "4 Years"
+      },
+      {
+        "name": "BPT (Bachelor of Physiotherapy)",
+        "duration": "4.5 Years"
+      },
+      {
+        "name": "B.Optom (Bachelor of Optometry)",
+        "duration": "4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Pharmacist",
+        "description": "Dispenses medications and advises on drug use"
+      },
+      {
+        "title": "Physiotherapist",
+        "description": "Helps patients recover from injuries through therapy"
+      },
+      {
+        "title": "Radiologist Technician",
+        "description": "Operates X-ray and imaging equipment"
+      },
+      {
+        "title": "Lab Technician",
+        "description": "Conducts laboratory tests for diagnosis"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET UG",
+        "programs": "Paramedical courses across India",
+        "website": "https://neet.nta.nic.in/"
+      },
+      {
+        "name": "MHT-CET",
+        "programs": "B.Pharma in Maharashtra",
+        "website": "http://cetcell.mahacet.org"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "AIIMS",
+        "admission": "AIIMS-EE",
+        "website": "https://aiimsexams.ac.in/",
+        "location": "Multiple locations"
+      }
+    ]
+  },
+  {
+    "id": "pure-sciences",
+    "title": "Pure Sciences",
+    "shortTitle": "Pure Sciences",
+    "icon": "🔬",
+    "colorClass": "category-science",
+    "description": "Explore the fundamental principles of nature through physics, chemistry, and biology.",
+    "summary": "Pure Sciences focus on understanding the fundamental principles of nature through physics, chemistry, mathematics, and biology. Research in pure sciences drives innovation and forms the foundation for applied technologies. Scientists work in research institutions, universities, and R&D departments of companies. With India's growing emphasis on scientific research and innovation, careers in pure sciences offer intellectual satisfaction and contribution to human knowledge.",
+    "opportunities": {
+      "shortTerm": 55,
+      "longTerm": 78
+    },
+    "whoShouldChoose": [
+      "Curiosity about natural phenomena",
+      "Interest in research and discovery",
+      "Strong analytical and mathematical skills"
+    ],
+    "degrees": [
+      {
+        "name": "B.Sc. Physics",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. Chemistry",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. Mathematics",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.Sc. (Hons)",
+        "duration": "4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Research Scientist",
+        "description": "Conducts research in scientific fields"
+      },
+      {
+        "title": "Professor/Lecturer",
+        "description": "Teaches science subjects at universities"
+      },
+      {
+        "title": "Lab Scientist",
+        "description": "Works in laboratories for research and testing"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "B.Sc. at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      },
+      {
+        "name": "NEST",
+        "programs": "Integrated M.Sc. at NISER",
+        "website": "https://www.nestexam.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Indian Institute of Science",
+        "admission": "KVPY/JEE",
+        "website": "https://www.iisc.ac.in/",
+        "location": "Bengaluru"
+      },
+      {
+        "name": "St. Stephen's College",
+        "admission": "CUET",
+        "website": "https://www.ststephens.edu/",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  {
+    "id": "therapeutic",
+    "title": "Therapeutic Health Sciences",
+    "shortTitle": "Therapeutic",
+    "icon": "🧘",
+    "colorClass": "category-therapeutic",
+    "description": "Promote wellness through therapeutic approaches like yoga, naturopathy, and alternative medicine.",
+    "summary": "Therapeutic Health Sciences focus on holistic wellness and alternative healing approaches including yoga, naturopathy, and integrative medicine. These practices emphasize prevention and natural healing methods. With increasing awareness of mental health and wellness, therapeutic professionals are in growing demand at wellness centers, hospitals, and corporate wellness programs. This field combines ancient wisdom with modern health science.",
+    "opportunities": {
+      "shortTerm": 50,
+      "longTerm": 70
+    },
+    "whoShouldChoose": [
+      "Interest in holistic health approaches",
+      "Passion for wellness and healing",
+      "Empathy and patience"
+    ],
+    "degrees": [
+      {
+        "name": "BNYS (Bachelor of Naturopathy & Yogic Sciences)",
+        "duration": "5.5 Years"
+      },
+      {
+        "name": "B.Sc. Yoga",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Yoga Therapist",
+        "description": "Uses yoga for therapeutic purposes"
+      },
+      {
+        "title": "Naturopath",
+        "description": "Treats patients using natural therapies"
+      },
+      {
+        "title": "Wellness Consultant",
+        "description": "Advises on holistic wellness"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET UG",
+        "programs": "BNYS programs",
+        "website": "https://neet.nta.nic.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "S-VYASA University",
+        "admission": "University Entrance",
+        "website": "https://svyasa.edu.in/",
+        "location": "Bengaluru"
+      }
+    ]
+  },
+  {
+    "id": "design-fashion",
+    "title": "Design, Fashion & Fine Arts",
+    "shortTitle": "Design & Fashion",
+    "icon": "🎭",
+    "colorClass": "category-design",
+    "description": "Express creativity through design, fashion, and visual arts.",
+    "summary": "Design, Fashion & Fine Arts provide creative outlets for artistic expression while building practical skills for commercial applications. From fashion design to graphic design, UI/UX, and traditional fine arts, this field offers diverse career paths. India's growing fashion industry, digital economy, and creative sector create abundant opportunities for talented designers. Graduates work in fashion houses, design studios, advertising agencies, and entertainment companies.",
+    "opportunities": {
+      "shortTerm": 68,
+      "longTerm": 82
+    },
+    "whoShouldChoose": [
+      "Creative and artistic abilities",
+      "Interest in fashion and aesthetics",
+      "Visual thinking and innovation"
+    ],
+    "degrees": [
+      {
+        "name": "B.Des (Bachelor of Design)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "BFA (Bachelor of Fine Arts)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Sc. Fashion Design",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Fashion Designer",
+        "description": "Designs clothing and accessories"
+      },
+      {
+        "title": "Graphic Designer",
+        "description": "Creates visual content for media"
+      },
+      {
+        "title": "UI/UX Designer",
+        "description": "Designs user interfaces and experiences"
+      },
+      {
+        "title": "Interior Designer",
+        "description": "Designs interior spaces"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NID DAT",
+        "programs": "B.Des at NID",
+        "website": "https://www.nid.edu/"
+      },
+      {
+        "name": "NIFT Entrance",
+        "programs": "B.Des/B.FTech at NIFT",
+        "website": "https://www.nift.ac.in/"
+      },
+      {
+        "name": "UCEED",
+        "programs": "B.Des at IITs",
+        "website": "https://www.uceed.iitb.ac.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "National Institute of Design (NID)",
+        "admission": "NID DAT",
+        "website": "https://www.nid.edu/",
+        "location": "Ahmedabad"
+      },
+      {
+        "name": "NIFT",
+        "admission": "NIFT Entrance",
+        "website": "https://www.nift.ac.in/",
+        "location": "Multiple locations"
+      }
+    ]
+  },
+  {
+    "id": "hotel-management",
+    "title": "Hotel Management & Tourism",
+    "shortTitle": "Hotel & Tourism",
+    "icon": "🏨",
+    "colorClass": "category-hotel",
+    "description": "Build a career in hospitality, tourism, and culinary arts.",
+    "summary": "Hotel Management & Tourism prepares students for careers in hospitality, tourism, and culinary arts. This industry is one of the largest employers globally, offering opportunities in hotels, restaurants, airlines, cruise ships, and tourism companies. With India being a major tourist destination and the hospitality sector expanding rapidly, skilled professionals who can deliver exceptional guest experiences are highly valued.",
+    "opportunities": {
+      "shortTerm": 65,
+      "longTerm": 80
+    },
+    "whoShouldChoose": [
+      "Interest in hospitality and service",
+      "Good communication and people skills",
+      "Passion for travel and tourism"
+    ],
+    "degrees": [
+      {
+        "name": "BHM (Bachelor of Hotel Management)",
+        "duration": "4 Years"
+      },
+      {
+        "name": "B.Sc. Hospitality & Hotel Administration",
+        "duration": "3 Years"
+      },
+      {
+        "name": "BBA in Tourism",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Hotel Manager",
+        "description": "Manages hotel operations"
+      },
+      {
+        "title": "Chef",
+        "description": "Prepares food in hotels and restaurants"
+      },
+      {
+        "title": "Event Manager",
+        "description": "Plans and organizes events"
+      },
+      {
+        "title": "Travel Consultant",
+        "description": "Plans travel itineraries for clients"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NCHMCT JEE",
+        "programs": "Hotel Management at IHMs",
+        "website": "https://nchmjee.nta.nic.in/"
+      },
+      {
+        "name": "CUET (UG)",
+        "programs": "BHM at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "IHM Mumbai",
+        "admission": "NCHMCT JEE",
+        "website": "https://www.ihmmumbai.edu.in/",
+        "location": "Mumbai"
+      },
+      {
+        "name": "IHM Delhi",
+        "admission": "NCHMCT JEE",
+        "website": "https://www.ihmdelhi.ac.in/",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  {
+    "id": "law",
+    "title": "Law",
+    "shortTitle": "Law",
+    "icon": "⚖️",
+    "colorClass": "category-law",
+    "description": "Uphold justice and protect rights through legal practice.",
+    "summary": "Law is a prestigious profession focused on upholding justice, protecting rights, and maintaining social order. Lawyers interpret laws, represent clients, and contribute to the legal framework of society. With increasing corporate activity, international trade, and rights awareness, the demand for legal professionals continues to grow. Law graduates work in courts, corporate legal departments, law firms, and public interest organizations.",
+    "opportunities": {
+      "shortTerm": 70,
+      "longTerm": 88
+    },
+    "whoShouldChoose": [
+      "Interest in justice and legal systems",
+      "Strong analytical and reasoning skills",
+      "Excellent communication abilities"
+    ],
+    "degrees": [
+      {
+        "name": "BA LLB (Integrated)",
+        "duration": "5 Years"
+      },
+      {
+        "name": "BBA LLB (Integrated)",
+        "duration": "5 Years"
+      },
+      {
+        "name": "LLB",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Advocate/Lawyer",
+        "description": "Represents clients in legal matters"
+      },
+      {
+        "title": "Judge",
+        "description": "Presides over court cases"
+      },
+      {
+        "title": "Legal Advisor",
+        "description": "Provides legal counsel to organizations"
+      },
+      {
+        "title": "Corporate Lawyer",
+        "description": "Handles legal matters for businesses"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CLAT",
+        "programs": "LLB at NLUs",
+        "website": "https://consortiumofnlus.ac.in/"
+      },
+      {
+        "name": "AILET",
+        "programs": "LLB at NLU Delhi",
+        "website": "https://nludelhi.ac.in/"
+      },
+      {
+        "name": "LSAT India",
+        "programs": "LLB at various law schools",
+        "website": "https://www.lsatindia.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "National Law School, Bangalore",
+        "admission": "CLAT",
+        "website": "https://www.nls.ac.in/",
+        "location": "Bengaluru"
+      },
+      {
+        "name": "NLU Delhi",
+        "admission": "AILET",
+        "website": "https://nludelhi.ac.in/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "VM Salgaocar College of Law",
+        "admission": "State CET",
+        "website": "https://vmslaw.edu.in/",
+        "location": "Goa"
+      }
+    ]
+  },
+  {
+    "id": "defence",
+    "title": "Defence Forces (NDA)",
+    "shortTitle": "Defence/NDA",
+    "icon": "🎖️",
+    "colorClass": "category-defence",
+    "description": "Serve the nation through a career in the armed forces.",
+    "summary": "Defence Forces offer a career of honor, discipline, and service to the nation. Officers in the Army, Navy, and Air Force lead troops, operate sophisticated equipment, and protect national security. The National Defence Academy provides world-class training combining academics with military skills. A career in defence offers adventure, leadership opportunities, excellent benefits, and the pride of serving the country.",
+    "opportunities": {
+      "shortTerm": 60,
+      "longTerm": 75
+    },
+    "whoShouldChoose": [
+      "Patriotism and desire to serve the nation",
+      "Physical fitness and endurance",
+      "Leadership and discipline"
+    ],
+    "degrees": [
+      {
+        "name": "NDA Training + Bachelor's Degree",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Army Officer",
+        "description": "Leads troops in the Indian Army"
+      },
+      {
+        "title": "Navy Officer",
+        "description": "Serves in the Indian Navy"
+      },
+      {
+        "title": "Air Force Officer",
+        "description": "Serves in the Indian Air Force"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NDA Exam",
+        "programs": "Entry to National Defence Academy",
+        "website": "https://www.upsc.gov.in/"
+      },
+      {
+        "name": "CDS Exam",
+        "programs": "Combined Defence Services",
+        "website": "https://www.upsc.gov.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "National Defence Academy",
+        "admission": "NDA Exam + SSB",
+        "website": "https://www.nda.nic.in/",
+        "location": "Pune"
+      }
+    ]
+  },
+  {
+    "id": "sports",
+    "title": "Sports, Yoga & Physical Education",
+    "shortTitle": "Sports & Yoga",
+    "icon": "🏆",
+    "colorClass": "category-sports",
+    "description": "Build a career around fitness, sports, and physical well-being.",
+    "summary": "Sports, Yoga & Physical Education focuses on fitness, athletic performance, and physical well-being. This field combines passion for sports with scientific understanding of human physiology. With growing awareness of health and fitness, and India's increasing focus on sports excellence, professionals in this field find opportunities as coaches, trainers, sports scientists, and physical education teachers. The field also includes sports management and sports journalism.",
+    "opportunities": {
+      "shortTerm": 55,
+      "longTerm": 72
+    },
+    "whoShouldChoose": [
+      "Passion for sports and fitness",
+      "Interest in physical education",
+      "Athletic abilities"
+    ],
+    "degrees": [
+      {
+        "name": "B.P.Ed (Bachelor of Physical Education)",
+        "duration": "3-4 Years"
+      },
+      {
+        "name": "B.Sc. Sports Science",
+        "duration": "3 Years"
+      },
+      {
+        "name": "B.A. Physical Education",
+        "duration": "3 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Sports Coach",
+        "description": "Trains athletes and sports teams"
+      },
+      {
+        "title": "Physical Education Teacher",
+        "description": "Teaches PE in schools"
+      },
+      {
+        "title": "Sports Scientist",
+        "description": "Applies science to improve athletic performance"
+      },
+      {
+        "title": "Fitness Trainer",
+        "description": "Provides fitness training and guidance"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET (UG)",
+        "programs": "B.P.Ed at Central Universities",
+        "website": "https://cuet.nta.nic.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Lakshmibai National Institute",
+        "admission": "University Entrance",
+        "website": "https://lnipe.edu.in/",
+        "location": "Gwalior"
+      }
+    ]
+  },
+  {
+    "id": "aviation",
+    "title": "Aviation",
+    "shortTitle": "Aviation",
+    "icon": "✈️",
+    "colorClass": "category-aviation",
+    "description": "Take to the skies with a career in aviation and aerospace.",
+    "summary": "Aviation offers exciting careers in flying, aircraft maintenance, and airport operations. Pilots command aircraft carrying passengers and cargo, while aviation engineers ensure aircraft safety and performance. India's aviation sector is one of the fastest-growing globally, creating demand for skilled professionals. The field combines technical expertise with adventure, offering competitive salaries and opportunities to travel the world.",
+    "opportunities": {
+      "shortTerm": 72,
+      "longTerm": 85
+    },
+    "whoShouldChoose": [
+      "Fascination with flying and aircraft",
+      "Good eyesight and physical fitness",
+      "Technical aptitude"
+    ],
+    "degrees": [
+      {
+        "name": "B.Sc. Aviation",
+        "duration": "3 Years"
+      },
+      {
+        "name": "Commercial Pilot License (CPL)",
+        "duration": "18-24 Months"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Commercial Pilot",
+        "description": "Flies commercial aircraft"
+      },
+      {
+        "title": "Flight Instructor",
+        "description": "Trains aspiring pilots"
+      },
+      {
+        "title": "Air Traffic Controller",
+        "description": "Manages aircraft movements"
+      },
+      {
+        "title": "Aircraft Maintenance Engineer",
+        "description": "Maintains and repairs aircraft"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "DGCA CPL Exam",
+        "programs": "Commercial Pilot License",
+        "website": "https://dgca.gov.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "Indira Gandhi Rashtriya Uran Akademi",
+        "admission": "Entrance Test",
+        "website": "https://igrua.gov.in/",
+        "location": "Rae Bareli"
+      }
+    ]
+  },
+  {
+    "id": "ca-cs",
+    "title": "Chartered Accountancy (CA) & Company Secretary (CS)",
+    "shortTitle": "CA & CS",
+    "icon": "📋",
+    "colorClass": "category-ca",
+    "description": "Become a certified professional in accounting or corporate governance.",
+    "summary": "Chartered Accountancy (CA) and Company Secretary (CS) are prestigious professional qualifications in finance and corporate governance. CAs are experts in accounting, auditing, and taxation, while CS professionals specialize in corporate law and compliance. These qualifications are highly respected in the business world, offering excellent career prospects with high earning potential. Professionals work in audit firms, corporations, and as independent practitioners.",
+    "opportunities": {
+      "shortTerm": 78,
+      "longTerm": 92
+    },
+    "whoShouldChoose": [
+      "Strong aptitude in accounting and finance",
+      "Attention to detail",
+      "Interest in corporate law and governance"
+    ],
+    "degrees": [
+      {
+        "name": "CA (Chartered Accountant)",
+        "duration": "4-5 Years"
+      },
+      {
+        "name": "CS (Company Secretary)",
+        "duration": "3-4 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Chartered Accountant",
+        "description": "Manages audits, taxation, and financial advising"
+      },
+      {
+        "title": "Company Secretary",
+        "description": "Ensures corporate compliance and governance"
+      },
+      {
+        "title": "CFO",
+        "description": "Chief Financial Officer of organizations"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "CA Foundation",
+        "programs": "Entry to CA course",
+        "website": "https://www.icai.org/"
+      },
+      {
+        "name": "CS Foundation",
+        "programs": "Entry to CS course",
+        "website": "https://www.icsi.edu/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "ICAI",
+        "admission": "CA Foundation",
+        "website": "https://www.icai.org/",
+        "location": "Pan India"
+      },
+      {
+        "name": "ICSI",
+        "admission": "CS Foundation",
+        "website": "https://www.icsi.edu/",
+        "location": "Pan India"
+      }
+    ]
+  },
+  {
+    "id": "nursing",
+    "title": "Nursing",
+    "shortTitle": "Nursing",
+    "icon": "🏥",
+    "colorClass": "category-nursing",
+    "description": "Provide compassionate care to patients in healthcare settings.",
+    "summary": "Nursing is a noble profession focused on providing compassionate care to patients across healthcare settings. Nurses are essential members of healthcare teams, providing direct patient care, administering medications, and supporting recovery. With global demand for qualified nurses and expanding healthcare infrastructure in India, nursing offers stable employment, opportunities for advancement, and the satisfaction of making a difference in patients' lives.",
+    "opportunities": {
+      "shortTerm": 82,
+      "longTerm": 90
+    },
+    "whoShouldChoose": [
+      "Compassion and empathy for patients",
+      "Interest in healthcare",
+      "Ability to work under pressure"
+    ],
+    "degrees": [
+      {
+        "name": "B.Sc. Nursing",
+        "duration": "4 Years"
+      },
+      {
+        "name": "GNM (General Nursing and Midwifery)",
+        "duration": "3 Years"
+      },
+      {
+        "name": "ANM (Auxiliary Nursing Midwifery)",
+        "duration": "2 Years"
+      }
+    ],
+    "careers": [
+      {
+        "title": "Registered Nurse",
+        "description": "Provides direct patient care in hospitals"
+      },
+      {
+        "title": "Nursing Supervisor",
+        "description": "Supervises nursing staff"
+      },
+      {
+        "title": "Community Health Nurse",
+        "description": "Provides healthcare in communities"
+      }
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET UG",
+        "programs": "B.Sc. Nursing across India",
+        "website": "https://neet.nta.nic.in/"
+      },
+      {
+        "name": "AIIMS Nursing",
+        "programs": "B.Sc. Nursing at AIIMS",
+        "website": "https://aiimsexams.ac.in/"
+      }
+    ],
+    "institutes": [
+      {
+        "name": "AIIMS College of Nursing",
+        "admission": "AIIMS-EE",
+        "website": "https://www.aiims.edu/",
+        "location": "New Delhi"
+      },
+      {
+        "name": "CMC Vellore",
+        "admission": "CMC Entrance",
+        "website": "https://www.cmch-vellore.edu/",
+        "location": "Vellore"
+      }
+    ]
+  }
+]
