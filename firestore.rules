@@ -1,18 +1,20 @@
 rules_version = '2';
-
 service cloud.firestore {
   match /databases/{database}/documents {
     match /careerCategories/{document=**} {
       allow read: if true;
       allow write: if false;
     }
-
     match /nationalScholarships/{document=**} {
       allow read: if true;
       allow write: if false;
     }
-
     match /careerSelfTest/{document=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /career_opportunities/{document=**} {
       allow read: if true;
       allow write: if false;
     }
@@ -20,7 +22,6 @@ service cloud.firestore {
     match /users/{userId}/{document=**} {
       allow read, write: if request.auth != null && request.auth.uid == userId;
     }
-
     match /{document=**} {
       allow read, write: if false;
     }

@@ -9,7 +9,7 @@ import {
   Award,
   BookOpen,
   ClipboardList,
-  MessageSquare,
+  BriefcaseBusiness,
   ChevronDown,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -19,7 +19,6 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import LanguageSwitcher from "@/components/LanguageSwitcher";
 import { useNavigate } from "react-router-dom";
 import { GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 import { auth } from "@/lib/firebase";
@@ -33,7 +32,7 @@ const navLinks = [
   { to: "/careers", key: "careers", icon: GraduationCap },
   { to: "/exams", key: "exams", icon: BookOpen },
   { to: "/colleges", key: "colleges", icon: Building2 },
-  { to: "/ai-chat", key: "aiChat", icon: MessageSquare, protected: true },
+  { to: "/opportunities", key: "opportunities", icon: BriefcaseBusiness },
   { to: "/scholarships", key: "scholarships", icon: Award, protected: true },
 ];
 
@@ -63,7 +62,7 @@ export const Navbar = () => {
     careers: "Careers",
     exams: "Exams",
     colleges: "Colleges",
-    aiChat: "AI Chat",
+    opportunities: "Opportunities",
     scholarships: "Scholarships",
     registrations: "Registrations",
     studentRegistration: "Student Registration",
@@ -134,7 +133,7 @@ export const Navbar = () => {
         t.careers = await translateText(baseTexts.careers, lang);
         t.exams = await translateText(baseTexts.exams, lang);
         t.colleges = await translateText(baseTexts.colleges, lang);
-        t.aiChat = await translateText(baseTexts.aiChat, lang);
+        t.opportunities = await translateText(baseTexts.opportunities, lang);
         t.scholarships = await translateText(baseTexts.scholarships, lang);
         t.registrations = await translateText(baseTexts.registrations, lang);
         t.studentRegistration = await translateText(
@@ -274,8 +273,6 @@ export const Navbar = () => {
 
             {/* Career Test CTA */}
             <div className="hidden lg:flex items-center gap-4">
-              <LanguageSwitcher />
-
               <div className="flex items-center gap-3">
                 {user && (
                   <span className="text-sm font-bold text-secondary">
@@ -403,11 +400,6 @@ export const Navbar = () => {
                       </Link>
                     );
                   })}
-                </div>
-
-                {/* Language Switcher */}
-                <div className="px-4 py-2">
-                  <LanguageSwitcher />
                 </div>
 
                 <button

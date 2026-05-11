@@ -19,7 +19,7 @@ import { GlobalTranslationLoader } from "@/components/GlobalTranslationLoader";
 import StudentRegistration from "./pages/StudentRegistration";
 import ReelsRegistration from "./pages/ReelsRegistration";
 import ExhibitorRegistration from "./pages/ExhibitorRegistration";
-import AIChat from "./pages/AIChat";
+import Opportunities from "./pages/Opportunities";
 
 const queryClient = new QueryClient();
 
@@ -41,8 +41,8 @@ const App = () => (
           <Route path="/colleges" element={<Colleges />} />
           <Route path="/colleges/:stream" element={<CollegeStreamDetail />} />
           <Route path="/scholarships" element={<Scholarships />} />
+          <Route path="/opportunities" element={<Opportunities />} />
           <Route path="/career-test" element={<CareerTest />} />
-          <Route path="/ai-chat" element={<AIChat />} />
           <Route
             path="/student-registration"
             element={<StudentRegistration />}
